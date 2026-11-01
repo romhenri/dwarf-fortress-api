@@ -1,0 +1,15 @@
+{
+  "name": "Dwarf Fortress Compendium",
+  "short_name": "DF",
+  "description": "Bestiário, mineração, tesouro, mapa e anúncios ao vivo de Dwarf Fortress.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120d0b",
+  "theme_color": "#120d0b",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
